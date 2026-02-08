@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "フィナーレをあなたに。",
+  "base_artist": "Aira",
+  "createdAt": "2026-02-08T08:38:45.315220Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "フィナーレをあなたに。",
+      "artist": "Aira",
+      "has_synced": false,
+      "path": "select/pl_01_フィナーレをあなたに。_Aira.txt"
+    }
+  ]
+}
